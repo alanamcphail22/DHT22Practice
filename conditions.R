@@ -1,3 +1,5 @@
+#Class excericises for June 7
+
 # snippets for conditions 
 
 
